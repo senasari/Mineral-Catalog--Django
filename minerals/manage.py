@@ -1,6 +1,10 @@
-#!/usr/bin/env python
+#!/usr/bin/python
 import os
 import sys
+# import exceptions
+
+# ! run with python3 !
+
 
 if __name__ == '__main__':
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'minerals.settings')
@@ -15,4 +19,4 @@ if __name__ == '__main__':
     execute_from_command_line(sys.argv)
 
 
-#  TODO: latest todo is why index page doesn't work
+#  TODO: latest todo is why detail page doesn't work

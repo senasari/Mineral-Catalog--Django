@@ -2,6 +2,7 @@ from django.db import models
 
 
 class Mineral(models.Model):
+    """Creates tables for storing the minerals' data"""
     name = models.CharField(max_length=100, default="")
     image_filename = models.TextField(default="")
     image_caption = models.TextField(default="")

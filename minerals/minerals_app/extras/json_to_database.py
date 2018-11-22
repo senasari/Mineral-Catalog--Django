@@ -9,6 +9,7 @@ with open('../fixtures/minerals.json', 'r+') as mineral_file:
     new_mineral_dict = {}  # with '_' in keys to conform it to the database
 
     with open('../fixtures/fixtures.json', 'w') as sff:
+        # writes the data taken from the minerals.json file to the file called fixtures.json
         for count, mineral_dict in enumerate(data_list):
             for key, value in mineral_dict.items():
                 new_key = "_".join(key.split(" "))

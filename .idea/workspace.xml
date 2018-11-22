@@ -2,898 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aede397f-0c8d-4871-be1a-722ba94457f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/minerals/minerals_app/extras/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minerals/minerals_app/extras/json_to_database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minerals/minerals_app/senastests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/techdegree-project-6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/techdegree-project-6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Abelsonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Abelsonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Abernathyite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Abernathyite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Abhurite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Abhurite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Abramovite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Abramovite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Acanthite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Acanthite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Actinolite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Actinolite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Adamite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Adamite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Adamsite-(Y).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Adamsite-(Y).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Aegirine.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Aegirine.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Aenigmatite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Aenigmatite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Aerinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Aerinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Aeschynite-(Y).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Aeschynite-(Y).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Afghanite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Afghanite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Afwillite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Afwillite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Agardite-(Y), Agardite-(Ce), Agardite-(Nd), Agardite-(La).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Agardite-(Y), Agardite-(Ce), Agardite-(Nd), Agardite-(La).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Agrellite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Agrellite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Aguilarite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Aguilarite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Aheylite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Aheylite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Aikinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Aikinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Ajoite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Ajoite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Akaganeite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Akaganeite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Alabandite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Alabandite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Alamosite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Alamosite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Albite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Albite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Algodonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Algodonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Aliettite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Aliettite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Allactite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Allactite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Allanite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Allanite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Allanpringite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Allanpringite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Allargentum.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Allargentum.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Alleghanyite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Alleghanyite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Allophane.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Allophane.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Alluaudite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Alluaudite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Almandine.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Almandine.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Alstonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Alstonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Altaite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Altaite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Alum-(K).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Alum-(K).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Aluminite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Aluminite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Alunite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Alunite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Alunogen.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Alunogen.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Amarantite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Amarantite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Amblygonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Amblygonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Amesite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Amesite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Analcime.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Analcime.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Anapaite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Anapaite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Anatase.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Anatase.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Ancylite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Ancylite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Andalusite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Andalusite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Andersonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Andersonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Andesine.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Andesine.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Andorite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Andorite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Andradite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Andradite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Andyrobertsite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Andyrobertsite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Anglesite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Anglesite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Anhydrite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Anhydrite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Ankerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Ankerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Annabergite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Annabergite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Annite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Annite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Anorthite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Anorthite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Anorthoclase.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Anorthoclase.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Anthophyllite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Anthophyllite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Antlerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Antlerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Apatite group.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Apatite group.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Aphthitalite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Aphthitalite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Apophyllite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Apophyllite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Aragonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Aragonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Arcanite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Arcanite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Ardaite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Ardaite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Arfvedsonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Arfvedsonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Argyrodite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Argyrodite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Armalcolite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Armalcolite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Arseniosiderite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Arseniosiderite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Arsenolite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Arsenolite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Arsenopyrite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Arsenopyrite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Arthurite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Arthurite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Artinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Artinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Artroeite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Artroeite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Asisite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Asisite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Astrophyllite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Astrophyllite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Atacamite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Atacamite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Augelite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Augelite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Augite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Augite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Aurichalcite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Aurichalcite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Auricupride.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Auricupride.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Austinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Austinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Autunite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Autunite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Avogadrite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Avogadrite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Awaruite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Awaruite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Axinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Axinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Azurite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Azurite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Babingtonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Babingtonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Baddeleyite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Baddeleyite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bakerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Bakerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Barrerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Barrerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Barstowite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Barstowite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Baryte (barite).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Baryte (barite).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Barytocalcite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Barytocalcite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bastnäsite, bastnaesite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Bastnäsite, bastnaesite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Baumhauerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Baumhauerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bayldonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Bayldonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bayleyite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Bayleyite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Becquerelite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Becquerelite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Benitoite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Benitoite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Benstonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Benstonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Beraunite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Beraunite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bergenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Bergenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Berlinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Berlinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Berthierite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Berthierite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bertrandite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Bertrandite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Beryl.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Beryl.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Beryllonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Beryllonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Beudantite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Beudantite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bicchulite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Bicchulite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Billietite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Billietite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Biotite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Biotite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Birnessite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Birnessite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bischofite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Bischofite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bismite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Bismite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bismuthinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Bismuthinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bismutite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Bismutite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bixbyite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Bixbyite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Blödite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Blödite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Boehmite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Boehmite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Boleite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Boleite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Boltwoodite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Boltwoodite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Boracite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Boracite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bornite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Bornite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Botallackite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Botallackite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Botryogen.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Botryogen.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Boulangerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Boulangerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bournonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Bournonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Braunite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Braunite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Brazilianite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Brazilianite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Breithauptite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Breithauptite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Brewsterite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Brewsterite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Brianyoungite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Brianyoungite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Brochantite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Brochantite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bromargyrite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Bromargyrite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Brookite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Brookite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Brownmillerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Brownmillerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Brucite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Brucite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Brushite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Brushite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bukovskyite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Bukovskyite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bultfonteinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Bultfonteinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bunsenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Bunsenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Bustamite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Bustamite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cacoxenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cacoxenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cadmoindite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cadmoindite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cafarsite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cafarsite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cahnite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cahnite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Calaverite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Calaverite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Calcite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Calcite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Caledonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Caledonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Calumetite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Calumetite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cancrinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cancrinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Canfieldite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Canfieldite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Carletonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Carletonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Carlsbergite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Carlsbergite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Carminite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Carminite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Carnallite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Carnallite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Carnotite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Carnotite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Carpathite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Carpathite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Carpholite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Carpholite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Carrollite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Carrollite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Caryopilite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Caryopilite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cassiterite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cassiterite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cavansite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cavansite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Celadonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Celadonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Celestine.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Celestine.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Celsian.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Celsian.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cerussite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cerussite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cervantite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cervantite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Chabazite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Chabazite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Chalcanthite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Chalcanthite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Chalcocite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Chalcocite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Chalcophyllite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Chalcophyllite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Chalcopyrite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Chalcopyrite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Chambersite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Chambersite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Chamosite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Chamosite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Chapmanite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Chapmanite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Charoite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Charoite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Chesterite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Chesterite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Childrenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Childrenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Chlorargyrite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Chlorargyrite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Chlorite group.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Chlorite group.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Chloritoid.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Chloritoid.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Chlormayenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Chlormayenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Chloroxiphite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Chloroxiphite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Chondrodite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Chondrodite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Chromite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Chromite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Chrysoberyl.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Chrysoberyl.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Chrysocolla.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Chrysocolla.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Chrysotile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Chrysotile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cinnabar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cinnabar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Clausthalite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Clausthalite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Clinoclase.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Clinoclase.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Clinodehrite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Clinodehrite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Clinohumite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Clinohumite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Clinoptilolite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Clinoptilolite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Clinozoisite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Clinozoisite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Clintonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Clintonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cobaltite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cobaltite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Coccinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Coccinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Coesite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Coesite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Coffinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Coffinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Colemanite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Colemanite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Collinsite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Collinsite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Coloradoite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Coloradoite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Columbite-(Fe).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Columbite-(Fe).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Conichalcite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Conichalcite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Connellite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Connellite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Copiapite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Copiapite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Copper.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Copper.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Corderoite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Corderoite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cordierite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cordierite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cornubite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cornubite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cornwallite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cornwallite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Corundum.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Corundum.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cotunnite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cotunnite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Covellite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Covellite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Creedite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Creedite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cristobalite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cristobalite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Crocoite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Crocoite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cronstedtite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cronstedtite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Crossite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Crossite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cryolite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cryolite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cryptomelane.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cryptomelane.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cubanite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cubanite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cummingtonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cummingtonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cuprite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cuprite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cuprosklodowskite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cuprosklodowskite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Curite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Curite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cyanotrichite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cyanotrichite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cylindrite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cylindrite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Cyrilovite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Cyrilovite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Danalite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Danalite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Danburite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Danburite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Datolite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Datolite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Daubréelite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Daubréelite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Davidite-(La).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Davidite-(La).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Dawsonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Dawsonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Delafossite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Delafossite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Demesmaekerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Demesmaekerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Derriksite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Derriksite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Descloizite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Descloizite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Devilline.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Devilline.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Diaboleite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Diaboleite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Diadochite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Diadochite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Diamond.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Diamond.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Diaspore.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Diaspore.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Dickite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Dickite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Digenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Digenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Diopside.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Diopside.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Dioptase.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Dioptase.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Djurleite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Djurleite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Dollaseite-(Ce).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Dollaseite-(Ce).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Dolomite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Dolomite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Domeykite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Domeykite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Duftite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Duftite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Dumortierite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Dumortierite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Dundasite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Dundasite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Dyscrasite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Dyscrasite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Edenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Edenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Edingtonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Edingtonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Elbaite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Elbaite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Emmonsite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Emmonsite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Enargite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Enargite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Enstatite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Enstatite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Eosphorite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Eosphorite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Ephesite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Ephesite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Epidote.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Epidote.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Epsomite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Epsomite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Erionite-Na.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Erionite-Na.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Erythrite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Erythrite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Eskolaite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Eskolaite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Esperite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Esperite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Ettringite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Ettringite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Euchroite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Euchroite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Euclase.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Euclase.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Eucryptite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Eucryptite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Eudialyte.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Eudialyte.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Euxenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Euxenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Evenkite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Evenkite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Faujasite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Faujasite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fayalite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Fayalite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Feldspar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Feldspar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Ferberite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Ferberite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fergusonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Fergusonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Ferrierite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Ferrierite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Ferrihydrite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Ferrihydrite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Ferrimolybdite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Ferrimolybdite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fettelite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Fettelite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fluckite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Fluckite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fluellite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Fluellite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fluor-buergerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Fluor-buergerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fluor-liddicoatite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Fluor-liddicoatite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fluor-uvite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Fluor-uvite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fluorapatite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Fluorapatite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fluorapophyllite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Fluorapophyllite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fluorellestadite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Fluorellestadite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fluorite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Fluorite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fluororichterite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Fluororichterite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fornacite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Fornacite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Forsterite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Forsterite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fourmarierite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Fourmarierite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Fraipontite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Fraipontite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Francevillite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Francevillite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Franckeite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Franckeite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Franklinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Franklinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Freibergite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Freibergite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Freieslebenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Freieslebenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Gadolinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Gadolinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Gahnite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Gahnite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Galena (lead glance).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Galena (lead glance).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Galkhaite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Galkhaite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Garnet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Garnet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Gaspeite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Gaspeite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Gaylussite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Gaylussite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Gehlenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Gehlenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Geikielite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Geikielite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Geocronite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Geocronite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Germanite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Germanite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Gersdorffite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Gersdorffite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Getchellite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Getchellite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Gibbsite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Gibbsite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Gilalite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Gilalite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Glauberite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Glauberite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Glaucodot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Glaucodot.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Glauconite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Glauconite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Glaucophane.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Glaucophane.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Gmelinite-Na.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Gmelinite-Na.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Goethite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Goethite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Gonnardite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Gonnardite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Gormanite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Gormanite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Goslarite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Goslarite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Graftonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Graftonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Grandidierite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Grandidierite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Graphite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Graphite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Gratonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Gratonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Greenockite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Greenockite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Greifensteinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Greifensteinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Greigite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Greigite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Grossular.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Grossular.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Groutite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Groutite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Grunerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Grunerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Gypsum.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Gypsum.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hagendorfite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hagendorfite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Haiweeite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Haiweeite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Halite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Halite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Halloysite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Halloysite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Halotrichite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Halotrichite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hambergite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hambergite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hanksite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hanksite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hardystonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hardystonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Harmotome.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Harmotome.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hauerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hauerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hausmannite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hausmannite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hawleyite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hawleyite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Haüyne.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Haüyne.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Heazlewoodite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Heazlewoodite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hectorite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hectorite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hedenbergite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hedenbergite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hellyerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hellyerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hematite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hematite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hemimorphite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hemimorphite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hemusite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hemusite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Herbertsmithite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Herbertsmithite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hercynite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hercynite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Herderite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Herderite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hessite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hessite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Heulandite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Heulandite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hibonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hibonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hidalgoite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hidalgoite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hilgardite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hilgardite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hodgkinsonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hodgkinsonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hoelite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hoelite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hollandite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hollandite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Holmquistite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Holmquistite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hopeite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hopeite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hornblende.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hornblende.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Howlite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Howlite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hsianghualite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hsianghualite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hubeite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hubeite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hubnerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hubnerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Humite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Humite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hureaulite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hureaulite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hutchinsonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hutchinsonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Huttonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Huttonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hydroboracite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hydroboracite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hydrogrossular.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hydrogrossular.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hydrokenoelsmoreite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hydrokenoelsmoreite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hydromagnesite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hydromagnesite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hydrotalcite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hydrotalcite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hydroxylapatite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hydroxylapatite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Hydrozincite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Hydrozincite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Idrialite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Idrialite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Ikaite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Ikaite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Illite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Illite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Ilmenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Ilmenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Ilvaite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Ilvaite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Inyoite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Inyoite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Iodargyrite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Iodargyrite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Iron, native iron or telluric iron.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Iron, native iron or telluric iron.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Jacobsite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Jacobsite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Jadarite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Jadarite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Jadeite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Jadeite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Jalpaite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Jalpaite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Jamesonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Jamesonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Jarosite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Jarosite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Jennite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Jennite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Jeremejevite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Jeremejevite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Jimthompsonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Jimthompsonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Johannite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Johannite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Jordanite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Jordanite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Julgoldite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Julgoldite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Junitoite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Junitoite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Jurbanite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Jurbanite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Kainite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Kainite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Kainosite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Kainosite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Kalinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Kalinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Kamacite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Kamacite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Kambaldaite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Kambaldaite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Kampfite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Kampfite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Kaolinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Kaolinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Kegelite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Kegelite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Kermesite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Kermesite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Kernite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Kernite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Kesterite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Kesterite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Keyite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Keyite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Kieserite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Kieserite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Kinoite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Kinoite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Kogarkoite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Kogarkoite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Kolbeckite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Kolbeckite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Kornerupine.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Kornerupine.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Kovdorskite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Kovdorskite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Krennerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Krennerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Krieselite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Krieselite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Kröhnkite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Kröhnkite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Kurnakovite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Kurnakovite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Kutnohorite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Kutnohorite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Kyanite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Kyanite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Köttigite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Köttigite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Labradorite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Labradorite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Lanarkite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Lanarkite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Langbeinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Langbeinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Langite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Langite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Lanthanite-(La), Lanthanite-(Nd), Lanthanite-(Ce).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Lanthanite-(La), Lanthanite-(Nd), Lanthanite-(Ce).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Laumontite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Laumontite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Laurionite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Laurionite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Lavendulan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Lavendulan.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Lawsonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Lawsonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Lazulite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Lazulite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Lazurite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Lazurite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Leadhillite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Leadhillite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Legrandite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Legrandite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Leifite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Leifite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Leightonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Leightonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Lepidocrocite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Lepidocrocite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Lepidolite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Lepidolite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Leucite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Leucite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Leucophoenicite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Leucophoenicite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Libethenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Libethenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Liebigite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Liebigite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Linarite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Linarite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Lindgrenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Lindgrenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Linnaeite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Linnaeite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Lipscombite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Lipscombite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Liroconite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Liroconite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Lithiophilite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Lithiophilite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Livingstonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Livingstonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Loellingite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Loellingite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Lonsdaleite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Lonsdaleite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Loparite-(Ce).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Loparite-(Ce).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Lopezite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Lopezite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Lorenzenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Lorenzenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Lorándite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Lorándite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Ludlamite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Ludlamite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Ludwigite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Ludwigite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Lévyne.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Lévyne.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Macdonaldite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Macdonaldite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Mackinawite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Mackinawite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Maghemite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Maghemite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Magnesioferrite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Magnesioferrite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Magnesiohastingsite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Magnesiohastingsite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Magnesite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Magnesite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Magnetite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Magnetite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Malachite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Malachite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Manganite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Manganite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Manganosite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Manganosite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Manganvesuvianite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Manganvesuvianite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Marcasite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Marcasite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Margarite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Margarite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Marialite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Marialite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Maricite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Maricite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Marrite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Marrite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Marthozite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Marthozite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Mascagnite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Mascagnite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Massicot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Massicot.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Masuyite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Masuyite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Matlockite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Matlockite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Maucherite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Maucherite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Meionite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Meionite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Melanophlogite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Melanophlogite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Melanterite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Melanterite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Melilite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Melilite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Mellite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Mellite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Melonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Melonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Mendipite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Mendipite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Meneghinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Meneghinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Meridianiite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Meridianiite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Mesolite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Mesolite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Messelite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Messelite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Metacinnabar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Metacinnabar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Metatorbernite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Metatorbernite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Metazeunerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Metazeunerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Meyerhofferite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Meyerhofferite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Miargyrite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Miargyrite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Mica.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Mica.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Microlite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Microlite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Millerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Millerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Mimetite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Mimetite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Minium.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Minium.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Minyulite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Minyulite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Mirabilite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Mirabilite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Mixite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Mixite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Moissanite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Moissanite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Molybdenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Molybdenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Molybdite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Molybdite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Monazite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Monazite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Monohydrocalcite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Monohydrocalcite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Monticellite-Kirschsteinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Monticellite-Kirschsteinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Montmorillonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Montmorillonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Moolooite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Moolooite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Mordenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Mordenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Moschellandsbergite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Moschellandsbergite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Mottramite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Mottramite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Motukoreaite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Motukoreaite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Mullite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Mullite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Murdochite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Murdochite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Muscovite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Muscovite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Nacrite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Nacrite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Nadorite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Nadorite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Nagyágite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Nagyágite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Nahcolite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Nahcolite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Nambulite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Nambulite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Narsarsukite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Narsarsukite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Natrolite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Natrolite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Natrophilite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Natrophilite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Nelenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Nelenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Nenadkevichite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Nenadkevichite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Nepheline.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Nepheline.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Neptunite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Neptunite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Nickeline.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Nickeline.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Niedermayrite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Niedermayrite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Nissonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Nissonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Niter.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Niter.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Nitratine.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Nitratine.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Nobleite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Nobleite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Nontronite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Nontronite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Norbergite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Norbergite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Northupite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Northupite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Nosean.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Nosean.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Népouite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Népouite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Okenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Okenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Olivenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Olivenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Olivine.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Olivine.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Orpiment.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Orpiment.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Orthoclase.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Orthoclase.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Osarizawaite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Osarizawaite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Osumilite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Osumilite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Otavite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Otavite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Ottrelite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Ottrelite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Painite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Painite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Palygorskite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Palygorskite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Papagoite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Papagoite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Paragonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Paragonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Paralaurionite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Paralaurionite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Paramelaconite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Paramelaconite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pararealgar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pararealgar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pargasite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pargasite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Parisite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Parisite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Parsonsite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Parsonsite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pascoite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pascoite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Patronite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Patronite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pearcbuteite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pearcbuteite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pecoraite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pecoraite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pectolite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pectolite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Penroseite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Penroseite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pentagonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pentagonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pentlandite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pentlandite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Perhamite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Perhamite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Periclase.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Periclase.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Perite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Perite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Perovskite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Perovskite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Petalite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Petalite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Petzite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Petzite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pezzottaite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pezzottaite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pharmacolite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pharmacolite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pharmacosiderite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pharmacosiderite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Phenakite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Phenakite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Phillipsite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Phillipsite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Phlogopite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Phlogopite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Phoenicochroite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Phoenicochroite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Phosgenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Phosgenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Phosphophyllite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Phosphophyllite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Phosphuranylite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Phosphuranylite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pickeringite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pickeringite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Picropharmacolite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Picropharmacolite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Piemontite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Piemontite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pigeonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pigeonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pinnoite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pinnoite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Plagioclase.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Plagioclase.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Plancheite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Plancheite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Plattnerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Plattnerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Plumbogummite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Plumbogummite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pollucite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pollucite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Polybasite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Polybasite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Polyhalite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Polyhalite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Portlandite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Portlandite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Posnjakite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Posnjakite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Poudretteite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Poudretteite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Powellite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Powellite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Prehnite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Prehnite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Proustite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Proustite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pseudobrookite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pseudobrookite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pseudomalachite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pseudomalachite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pumpellyite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pumpellyite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Purpurite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Purpurite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Putnisite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Putnisite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pyrargyrite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pyrargyrite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pyrite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pyrite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pyrochlore.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pyrochlore.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pyrolusite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pyrolusite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pyromorphite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pyromorphite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pyrope.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pyrope.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pyrophanite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pyrophanite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pyrophyllite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pyrophyllite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pyroxferroite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pyroxferroite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pyroxmangite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pyroxmangite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pyrrhotite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pyrrhotite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Pääkkönenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Pääkkönenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Rammelsbergite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Rammelsbergite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Rapidcreekite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Rapidcreekite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Raspite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Raspite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Realgar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Realgar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Renierite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Renierite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Rheniite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Rheniite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Rhodochrosite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Rhodochrosite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Rhodonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Rhodonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Richterite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Richterite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Rickardite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Rickardite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Riebeckite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Riebeckite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Ringwoodite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Ringwoodite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Robertsite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Robertsite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Rodalquilarite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Rodalquilarite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Romanèchite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Romanèchite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Romeite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Romeite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Rosasite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Rosasite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Roselite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Roselite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Rozenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Rozenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Ruizite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Ruizite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Rutherfordine.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Rutherfordine.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Rutile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Rutile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Sabinaite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Sabinaite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Safflorite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Safflorite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Sal ammoniac.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Sal ammoniac.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Saleeite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Saleeite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Samarskite-(Y).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Samarskite-(Y).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Sampleite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Sampleite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Samsonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Samsonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Sanbornite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Sanbornite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Sanidine.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Sanidine.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Santabarbaraite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Santabarbaraite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Saponite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Saponite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Sapphirine.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Sapphirine.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Sarkinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Sarkinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Sassolite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Sassolite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Satterlyite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Satterlyite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Scapolite group.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Scapolite group.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Scheelite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Scheelite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Schmiederite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Schmiederite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Schoepite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Schoepite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Schreibersite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Schreibersite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Schröckingerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Schröckingerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Scolecite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Scolecite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Scorodite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Scorodite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Scorzalite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Scorzalite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Seamanite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Seamanite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Searlesite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Searlesite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Seeligerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Seeligerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Seifertite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Seifertite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Seligmannite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Seligmannite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Sellaite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Sellaite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Semseyite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Semseyite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Sepiolite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Sepiolite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Serandite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Serandite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Serendibite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Serendibite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Serpierite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Serpierite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Shattuckite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Shattuckite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Shigaite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Shigaite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Shortite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Shortite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Siderite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Siderite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Siderophyllite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Siderophyllite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Siegenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Siegenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Sillimanite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Sillimanite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Simpsonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Simpsonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Sincosite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Sincosite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Sinkankasite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Sinkankasite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Sklodowskite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Sklodowskite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Skutterudite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Skutterudite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Smithsonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Smithsonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Sodalite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Sodalite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Soddyite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Soddyite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Sonolite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Sonolite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Sperrylite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Sperrylite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Spertiniite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Spertiniite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Spessartine.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Spessartine.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Sphalerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Sphalerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Spherocobaltite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Spherocobaltite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Spinel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Spinel.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Spodumene.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Spodumene.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Spurrite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Spurrite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Stannite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Stannite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Staurolite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Staurolite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Steacyite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Steacyite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Stellerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Stellerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Stephanite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Stephanite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Stibarsen.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Stibarsen.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Stibiconite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Stibiconite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Stibiopalladinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Stibiopalladinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Stibnite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Stibnite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Stichtite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Stichtite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Stilbite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Stilbite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Stilpnomelane.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Stilpnomelane.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Stolzite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Stolzite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Strashimirite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Strashimirite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Strengite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Strengite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Stromeyerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Stromeyerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Strontianite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Strontianite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Struvite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Struvite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Studtite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Studtite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Stützite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Stützite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Sugilite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Sugilite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Susannite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Susannite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Sussexite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Sussexite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Svanbergite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Svanbergite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Switzerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Switzerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Sylvanite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Sylvanite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Sylvite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Sylvite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Syngenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Syngenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Taaffeite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Taaffeite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Taenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Taenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Talc.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Talc.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Talmesite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Talmesite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Talnakhite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Talnakhite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tangeite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tangeite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tantalite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tantalite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tapiolite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tapiolite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Taranakite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Taranakite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tarbuttite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tarbuttite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tausonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tausonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Teallite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Teallite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tellurite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tellurite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tennantite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tennantite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tenorite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tenorite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tephroite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tephroite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Terlinguaite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Terlinguaite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tetradymite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tetradymite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tetrahedrite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tetrahedrite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Thaumasite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Thaumasite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Thenardite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Thenardite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Thermonatrite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Thermonatrite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Thomasclarkite-(Y).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Thomasclarkite-(Y).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Thomsenolite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Thomsenolite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Thomsonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Thomsonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Thorianite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Thorianite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Thorite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Thorite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Thortveitite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Thortveitite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tiemannite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tiemannite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tincalconite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tincalconite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Titanite (Sphene).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Titanite (Sphene).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tobermorite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tobermorite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Todorokite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Todorokite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Topaz.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Topaz.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Torbernite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Torbernite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tourmaline.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tourmaline.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tremolite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tremolite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tridymite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tridymite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Triplite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Triplite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Triploidite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Triploidite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Troilite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Troilite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Trona.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Trona.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tschermakite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tschermakite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tschermigite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tschermigite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tsumcorite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tsumcorite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tsumebite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tsumebite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tugtupite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tugtupite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tungstite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tungstite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tuperssuatsiaite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tuperssuatsiaite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Turquoise.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Turquoise.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tyrolite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tyrolite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tyuyamunite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Tyuyamunite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Ulexite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Ulexite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Ullmannite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Ullmannite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Ulrichite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Ulrichite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Umangite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Umangite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Uraninite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Uraninite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Uranocircite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Uranocircite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Uranophane.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Uranophane.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Uranopilite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Uranopilite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Uvarovite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Uvarovite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Uytenbogaardite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Uytenbogaardite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Valentinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Valentinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Valleriite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Valleriite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Vanadinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Vanadinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Variscite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Variscite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Vaterite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Vaterite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Vauquelinite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Vauquelinite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Vauxite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Vauxite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Veatchite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Veatchite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Vermiculite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Vermiculite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Vesuvianite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Vesuvianite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Villiaumite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Villiaumite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Vishnevite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Vishnevite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Vivianite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Vivianite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Vladimirite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Vladimirite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Vlasovite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Vlasovite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Volborthite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Volborthite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Wakabayashilite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Wakabayashilite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Wakefieldite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Wakefieldite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Walfordite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Walfordite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Wardite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Wardite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Warikahnite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Warikahnite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Warwickite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Warwickite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Wavellite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Wavellite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Weddellite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Weddellite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Weloganite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Weloganite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Whewellite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Whewellite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Whiteite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Whiteite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Whitlockite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Whitlockite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Wikipedia-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Wikipedia-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Willemite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Willemite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Wiluite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Wiluite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Witherite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Witherite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Wodginite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Wodginite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Wolframite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Wolframite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Wollastonite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Wollastonite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Woodhouseite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Woodhouseite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Wulfenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Wulfenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Wurtzite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Wurtzite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Xenotime.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Xenotime.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Xocomecatlite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Xocomecatlite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Xonotlite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Xonotlite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Zanazziite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Zanazziite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Zaratite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Zaratite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Zaïrite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Zaïrite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Zektzerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Zektzerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Zemannite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Zemannite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Zeunerite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Zeunerite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Zincite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Zincite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Zinclipscombite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Zinclipscombite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Zinkenite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Zinkenite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Zinnwaldite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Zinnwaldite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Zippeite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Zippeite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Zircon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Zircon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Zoisite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Zoisite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Zorite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Zorite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Zunyite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Zunyite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/calderite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/calderite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/claudetite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/claudetite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/test.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/test.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Åkermanite.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/images/Åkermanite.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minerals.json" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/fixtures/minerals.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minerals/assets/css/global.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/minerals/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minerals/minerals/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minerals/minerals/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/minerals/minerals/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minerals/minerals_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minerals/minerals_app/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minerals/minerals_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minerals/templates/detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/minerals/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/minerals/minerals_app/extras/json_to_database.py" beforeDir="false" afterPath="$PROJECT_DIR$/minerals/minerals_app/extras/json_to_database.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -920,7 +30,7 @@
           <entry key="gitignore" value="1" />
           <entry key="html" value="12" />
           <entry key="json" value="30" />
-          <entry key="py" value="71" />
+          <entry key="py" value="74" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -930,7 +40,7 @@
           <entry key="HTML" value="12" />
           <entry key="JSON" value="30" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="71" />
+          <entry key="Python" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -938,14 +48,14 @@
           <entry key="Python Console" value="730" />
           <entry key="html" value="1463" />
           <entry key="json" value="207" />
-          <entry key="py" value="8161" />
+          <entry key="py" value="8324" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="1463" />
           <entry key="JSON" value="207" />
-          <entry key="Python" value="8891" />
+          <entry key="Python" value="9054" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -969,23 +79,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/minerals/minerals_app/fixtures/fixtures.json">
+        <entry file="file://$PROJECT_DIR$/minerals/minerals/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="13782" column="48" selection-start-line="13782" selection-start-column="48" selection-end-line="13782" selection-end-column="48" />
+            <state relative-caret-position="75">
+              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+                <marker date="1542881064676" expanded="true" signature="149:153" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/minerals/minerals/views.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/minerals/minerals_app/extras/json_to_database.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-                <marker date="1542855067431" expanded="true" signature="100:104" ph="..." />
-              </folding>
+            <state relative-caret-position="165">
+              <caret line="11" column="92" selection-start-line="11" selection-start-column="92" selection-end-line="11" selection-end-column="92" />
             </state>
           </provider>
         </entry>
@@ -1015,24 +125,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/minerals/minerals/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/minerals/manage.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
               <folding>
                 <element signature="e#18#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/minerals/minerals_app/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1047,7 +154,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -1124,17 +231,17 @@
         <option value="$PROJECT_DIR$/minerals/minerals_app/fixtures/fixtures.json" />
         <option value="$PROJECT_DIR$/minerals/minerals_app/models.py" />
         <option value="$PROJECT_DIR$/minerals/minerals/urls.py" />
-        <option value="$PROJECT_DIR$/minerals/minerals_app/extras/json_to_database.py" />
         <option value="$PROJECT_DIR$/minerals/minerals_app/urls.py" />
         <option value="$PROJECT_DIR$/minerals/minerals_app/senastests.py" />
         <option value="$PROJECT_DIR$/minerals/minerals_app/views.py" />
         <option value="$PROJECT_DIR$/minerals/minerals_app/templates/minerals_app/detail.html" />
         <option value="$PROJECT_DIR$/minerals/minerals/settings.py" />
-        <option value="$PROJECT_DIR$/minerals/minerals/views.py" />
         <option value="$PROJECT_DIR$/minerals/minerals_app/templates/minerals_app/index.html" />
         <option value="$PROJECT_DIR$/minerals/minerals_app/tests.py" />
         <option value="$PROJECT_DIR$/templates/layout.html" />
         <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/minerals/minerals/views.py" />
+        <option value="$PROJECT_DIR$/minerals/minerals_app/extras/json_to_database.py" />
       </list>
     </option>
   </component>
@@ -1177,7 +284,7 @@
               <item name="techdegree-project-6" type="462c0819:PsiDirectoryNode" />
               <item name="minerals" type="462c0819:PsiDirectoryNode" />
               <item name="minerals_app" type="462c0819:PsiDirectoryNode" />
-              <item name="fixtures" type="462c0819:PsiDirectoryNode" />
+              <item name="extras" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="techdegree-project-6" type="b2602c69:ProjectViewProjectNode" />
@@ -1235,16 +342,16 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/minerals/minerals_app/fixtures" />
+      <recent name="$PROJECT_DIR$/static/minerals_app" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app/css" />
       <recent name="$PROJECT_DIR$/minerals/minerals_app/static/minerals_app" />
       <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$/minerals/minerals_app/fixtures" />
-      <recent name="$PROJECT_DIR$/minerals/minerals_app/extras" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/minerals/minerals_app/fixtures" />
-      <recent name="$PROJECT_DIR$/static/minerals_app" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1456,13 +563,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/minerals/minerals_app/extras/json_to_database.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/minerals/minerals_app/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1489,13 +589,6 @@
     <entry file="file://$PROJECT_DIR$/minerals/minerals/wsgi.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/minerals/minerals/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/minerals/minerals_app/templates/minerals_app/detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1514,27 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/minerals/minerals/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-            <marker date="1542855067431" expanded="true" signature="100:104" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/minerals/minerals/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#632#664#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1606,6 +678,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minerals/minerals/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minerals/minerals/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#632#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minerals/minerals/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+            <marker date="1542881064676" expanded="true" signature="149:153" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minerals/minerals_app/extras/json_to_database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="92" selection-start-line="11" selection-start-column="92" selection-end-line="11" selection-end-column="92" />
         </state>
       </provider>
     </entry>

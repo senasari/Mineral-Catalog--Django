@@ -35,10 +35,10 @@ def minerals_detail(request, pk):
                 main_mineral_dict[field] = field_attr
     name = main_mineral_dict.get('name')
     image_filename = "minerals_app/images/" + name + ".jpg"
-    # TODO: image actual file_name, BURADA DURSUN JUST IN CASE main_mineral_dict['image_filename']
     image_caption = main_mineral_dict.get('image_caption')
     minerals = models.Mineral.objects.all()
     rnd_pk = randint(1, minerals.count())
+    # sending most useful data to the template called detail.html
     return render(request, 'minerals_app/detail.html', {'rnd_pk': rnd_pk,
                                                         'name': name,
                                                         'image_filename': image_filename,
@@ -48,5 +48,5 @@ def minerals_detail(request, pk):
 
 @register.filter
 def get_item(dictionary, key):
-    """To use in the template"""
+    """To use dictionary values in the template"""
     return dictionary.get(key)

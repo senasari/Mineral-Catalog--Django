@@ -50,7 +50,7 @@
           <entry key="Python Console" value="730" />
           <entry key="html" value="2655" />
           <entry key="json" value="207" />
-          <entry key="md" value="488" />
+          <entry key="md" value="618" />
           <entry key="py" value="8761" />
         </counts>
       </usages-collector>
@@ -58,7 +58,7 @@
         <counts>
           <entry key="HTML" value="2655" />
           <entry key="JSON" value="207" />
-          <entry key="Markdown" value="488" />
+          <entry key="Markdown" value="618" />
           <entry key="Python" value="9491" />
         </counts>
       </usages-collector>
@@ -117,7 +117,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="45">
-                <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+                <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -671,7 +671,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="45">
-            <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+            <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
           </first_editor>
           <second_editor />
         </state>

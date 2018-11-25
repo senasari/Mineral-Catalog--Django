@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 #DJANGO-MINERALS_PROJECT
 
 This minerals project is a website displaying various minerals.
 
-# techdegree-project-6
 To install the requirements:  
 -> pip3 install -r requirements.txt .   
 Migrate changes for the database:  

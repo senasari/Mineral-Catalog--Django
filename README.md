@@ -1,6 +1,6 @@
 #DJANGO-MINERALS_PROJECT
 
-This project is a website displaying various minerals.
+This minerals project is a website displaying various minerals.
 
 To install the requirements:  
 -> pip3 install -r requirements.txt .   

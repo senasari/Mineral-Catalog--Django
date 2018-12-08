@@ -1,3 +1,4 @@
+#Credit most of the html & css and images are provided by teamtreehouse.com, I mainly did the back-end part and contributed to html and css.
 #DJANGO-MINERALS_PROJECT
 
 This minerals project is a website displaying various minerals.
